@@ -1,6 +1,7 @@
+//作者不保证此文件可以使用
 #include <iostream>
 #include <iomanip>
-#include <cstdlib> // 包含标准库函数的头文件
+#include <cstdlib>
 
 using namespace std;
 
